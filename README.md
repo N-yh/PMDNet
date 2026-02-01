@@ -16,7 +16,7 @@
   <tr>
     <td align="center">
       <img src = "Figs/Figure_4.jpg" width="800">
-      <p><b>Supervised Attention Module (SAM)</b></p>
+      <p><b>Transformer-UNet and Sandwich-shaped Channel-wise Transformer Block (SCTB)</b></p>
     </td>
   </tr>
   <tr>

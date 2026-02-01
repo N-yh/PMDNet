@@ -2,4 +2,6 @@
 
 [Yihao Ni](https://orcid.org/0009-0008-1656-7091) and [Shan Gai](https://orcid.org/0000-0001-6139-1410)
 
+[Paper Download](https://www.sciencedirect.com/science/article/pii/S0957417425045257)
+
 The code will come soon...

@@ -12,21 +12,26 @@
       <img src="https://i.imgur.com/69c0pQv.png" width="500">
       <div style="display: inline-block; background-color: #e6f7e6; padding: 5px 10px; border-radius: 4px;">
         <b>Overall Framework of MPRNet</b>
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/JJAKXOi.png" width="400">
-      <p><b>Supervised Attention Module (SAM)</b></p>
+      <div style="display: inline-block; background-color: #e6f7e6; padding: 5px 10px; border-radius: 4px;">
+        <b>Supervised Attention Module (SAM)</b>
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- 可以添加第三个内容块 -->
-      <p>Third row content (可根据需要添加图片或文字)</p>
+      <div style="display: inline-block; background-color: #e6f7e6; padding: 5px 10px; border-radius: 4px;">
+        <b>Third row content (可根据需要添加图片或文字)</b>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 The code will come soon...

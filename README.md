@@ -10,18 +10,18 @@
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/69c0pQv.png" width="500">
-      <p style="color: red;"><b>Overall Framework of MPRNet</b></p>
+      <p><font color="red"><b>Overall Framework of MPRNet</b></font></p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/JJAKXOi.png" width="400">
-      <p style="color: red;"><b>Supervised Attention Module (SAM)</b></p>
+      <p><font color="red"><b>Supervised Attention Module (SAM)</b></font></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <p style="color: red;"><b>Third row content (可根据需要添加图片或文字)</b></p>
+      <p><font color="red"><b>Third row content (可根据需要添加图片或文字)</b></font></p>
     </td>
   </tr>
 </table>

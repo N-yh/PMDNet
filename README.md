@@ -1,3 +1,3 @@
-# PMDNet
+# PMDNet: Progressive modulation network with global-local representations for single image deraining (ESWA 2026)
 
 The code will come soon...

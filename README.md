@@ -16,13 +16,13 @@
   <tr>
     <td align="center">
       <img src = "Figs/Figure_4.jpg" width="800">
-      <p><b>Transformer-UNet and Sandwich-shaped Channel-wise Transformer Block (SCTB)</b></p>
+      <p><b>Transformer-UNet</b></p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src = "Figs/Figure_5.jpg" width="800">
-      <p>Third row content (可根据需要添加图片或文字)</p>
+      <p>Enhanced Spatial and Channel Attention</p>
     </td>
   </tr>
 </table>

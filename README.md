@@ -9,19 +9,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/69c0pQv.png" width="500">
+      <img src = "Figs/Figure_2.png">
       <p><b>Overall Framework of MPRNet</b></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/JJAKXOi.png" width="400">
+      <img src = "Figs/Figure_4.png">
       <p><b>Supervised Attention Module (SAM)</b></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- 可以添加第三个内容块 -->
+      <img src = "Figs/Figure_5.png">
       <p>Third row content (可根据需要添加图片或文字)</p>
     </td>
   </tr>

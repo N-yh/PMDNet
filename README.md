@@ -9,19 +9,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src = "Figs/Figure_2.jpg">
+      <img src = "Figs/Figure_2.jpg" width="800">
       <p><b>Overall Architecture of PMDNet</b></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src = "Figs/Figure_4.jpg">
+      <img src = "Figs/Figure_4.jpg" width="800">
       <p><b>Supervised Attention Module (SAM)</b></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src = "Figs/Figure_5.jpg">
+      <img src = "Figs/Figure_5.jpg" width="800">
       <p>Third row content (可根据需要添加图片或文字)</p>
     </td>
   </tr>

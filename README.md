@@ -22,7 +22,7 @@
   <tr>
     <td align="center">
       <img src = "Figs/Figure_5.jpg" width="800">
-      <p>Enhanced Spatial and Channel Attention</p>
+      <p><b>Enhanced Spatial and Channel Attention</b></p>
     </td>
   </tr>
 </table>

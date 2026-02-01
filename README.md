@@ -29,13 +29,13 @@
 </table>
 
 ## Installation
-The model is built in PyTorch 1.1.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
+The model is built in PyTorch 1.13.1, Python3.7, CUDA11.6.
 
 For installing, follow these intructions
 ```
-conda create -n pytorch1 python=3.7
-conda activate pytorch1
-conda install pytorch=1.1 torchvision=0.3 cudatoolkit=9.0 -c pytorch
+conda create -n ENV_PMDNet python=3.7
+conda activate ENV_PMDNet
+conda install pytorch=1.13.1 torchvision=0.14.1 cudatoolkit=11.6 -c pytorch
 pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
 ```
 

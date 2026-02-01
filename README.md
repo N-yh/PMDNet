@@ -10,7 +10,8 @@
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/69c0pQv.png" width="500">
-      <p><b>Overall Framework of MPRNet</b></p>
+      <div style="display: inline-block; background-color: #e6f7e6; padding: 5px 10px; border-radius: 4px;">
+        <b>Overall Framework of MPRNet</b>
     </td>
   </tr>
   <tr>

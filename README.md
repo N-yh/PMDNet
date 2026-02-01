@@ -6,4 +6,26 @@
 
 > **Abstract:** *Images captured under adverse weather conditions such as rainfall suffer from severe quality degradation, which subsequently impacts the performance of numerous vision-oriented systems. As a potential remedy, we propose an advanced progressive modulation network, named PMDNet, for single image deraining. The proposed method attains exceptional rain removal performance through three pivotal designs: 1) a dual-branch framework is employed to jointly optimize rain residuals and background images, which exploits degradation priors by modulating rain-free features with rain features; 2) the integration of Transformer and convolutional neural network (CNN) paradigms allows the model to combine their complementary strengths and to balance both global and local representations; 3) a novel sandwich-shaped Transformer architecture (i.e., placing self-attention between two feed-forward networks) and dilated convolutions with varying dilation factors are introduced to respectively enhance the effectiveness of self-attention and convolutional attention mechanisms, thereby facilitating more refined rain feature extraction and rain-free feature modulation. Extensive experiments conducted on synthetic rain streak/rain-fog/raindrop datasets, real rain samples, snowy scenes, as well as low-light conditions demonstrate the superiority and extensibility of our proposed method. The source code is available at https://github.com/N-yh/PMDNet.* 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/69c0pQv.png" width="500">
+      <p><b>Overall Framework of MPRNet</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/JJAKXOi.png" width="400">
+      <p><b>Supervised Attention Module (SAM)</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- 可以添加第三个内容块 -->
+      <p>Third row content (可根据需要添加图片或文字)</p>
+    </td>
+  </tr>
+</table>
+
+
 The code will come soon...

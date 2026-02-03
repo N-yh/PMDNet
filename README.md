@@ -36,7 +36,7 @@ For installing, follow these intructions
 conda create -n pmdnet_env python=3.7
 conda activate pmdnet_env
 conda install pytorch=1.13.1 torchvision=0.14.1 cudatoolkit=11.6 -c pytorch
-pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
+pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm pyyaml 
 ```
 
 Install warmup scheduler

@@ -45,4 +45,14 @@ Install warmup scheduler
 cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 ```
 
+## Quick Test
+
+To test the pre-trained models on your own images with a specific resolution of even × even, run 
+```
+python test_1.py  
+```
+else run
+```
+python test_2.py  
+```
 

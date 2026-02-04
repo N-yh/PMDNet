@@ -70,7 +70,7 @@ python train.py
 
 ### Evaluation
 
-1. Download the [models]() and place it in `./checkpoints/`
+1. Download the [models](https://pan.baidu.com/s/1X4JmIPwp4RZ1wbxoAIm8Iw)(**PWD: c62t**) and place it in `./checkpoints/`
 
 2. Download test datasets (Test100, Rain100H, Rain100L, Test1200, Test2800) from [here](https://drive.google.com/drive/folders/1PDWggNh8ylevFmrjo-JEvlmqsDlWWvZs?usp=sharing) and place them in `./Datasets/Synthetic_Rain_Datasets/test/`
 

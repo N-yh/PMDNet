@@ -83,7 +83,7 @@ python test_1.py / python test_2.py
 Experiments are performed for different image restoration tasks including, image deraining, image desnowing and low-light image enhancement.
 
 ## Acknowledgements
-Code borrows from [MFDNet](https://github.com/swz30/MPRNet) and [MPRNet](https://github.com/swz30/MPRNet). Thanks for sharing!
+Code borrows from [MFDNet](https://github.com/qwangg/MFDNet) and [MPRNet](https://github.com/swz30/MPRNet). Thanks for sharing!
 
 ## Citation
 If you use PMDNet, please consider citing:

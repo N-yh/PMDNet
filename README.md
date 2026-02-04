@@ -76,6 +76,6 @@ python train.py
 
 3. Run
 ```
-python test_1.py or python test_2.py
+python test_1.py / python test_2.py
 ```
 

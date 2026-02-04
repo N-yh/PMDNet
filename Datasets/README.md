@@ -14,10 +14,11 @@ Download datasets and place them in this directory. Your directory structure sho
   `└──test`   <br/>
       `└──rain-fog`
 
-  Raindrop [Baidu Cloud](https://pan.baidu.com/s/1uYLm4NA3GbeewvMHAJB2vg) (**PWD: daad**) <br/>
+  Raindrop, [Baidu Cloud](https://pan.baidu.com/s/1uYLm4NA3GbeewvMHAJB2vg), (**PWD: daad**) <br/>
   `├──train`  <br/>
   `└──test`   <br/>
       `└──raindrop`
+
 
 
 

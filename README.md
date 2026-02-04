@@ -70,11 +70,11 @@ python train.py
 
 ### Evaluation
 
-1. Download the [models](https://pan.baidu.com/s/1X4JmIPwp4RZ1wbxoAIm8Iw) (**PWD: c62t**) and place it in `./checkpoints/`
+- Download the [models](https://pan.baidu.com/s/1X4JmIPwp4RZ1wbxoAIm8Iw) (**PWD: c62t**) and place it in `./checkpoints/`
 
-2. Download test datasets from [here](Datasets/README.md) and place them in `./Datasets/`
+- Download test datasets from [here](Datasets/README.md) and place them in `./Datasets/`
 
-3. Run
+- Run
 ```
 python test_1.py / python test_2.py
 ```

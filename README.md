@@ -81,3 +81,21 @@ python test_1.py / python test_2.py
 
 ## Results
 Experiments are performed for different image restoration tasks including, image deraining, image desnowing and low-light image enhancement.
+
+## Acknowledgements
+Code borrows from [MFDNet](https://github.com/swz30/MPRNet) and [MPRNet](https://github.com/swz30/MPRNet). Thanks for sharing!
+
+## Citation
+If you use PMDNet, please consider citing:
+
+@inproceedings{jiang2023dawn,
+  title={Dawn: Direction-aware attention wavelet network for image deraining},
+  author={Jiang, Kui and Liu, Wenxuan and Wang, Zheng and Zhong, Xian and Jiang, Junjun and Lin, Chia-Wen},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={7065--7074},
+  year={2023}
+}
+
+## Contact
+Should you have any question, please contact nyhao@stumail.ysu.edu.cn.
+

@@ -9,7 +9,7 @@ Download datasets and place them in this directory. Your directory structure sho
       `├──Test1200`  <br/>
       `└──Test2800`
 
-  Rain-Fog, [Baidu Cloud](https://pan.baidu.com/s/1uYLm4NA3GbeewvMHAJB2vg), (**PWD: aaaa**) <br/>
+  Rain-Fog, [Baidu Cloud](), (**PWD: **) <br/>
   `├──train`  <br/>
   `└──test`   <br/>
       `└──rain-fog`
@@ -18,6 +18,7 @@ Download datasets and place them in this directory. Your directory structure sho
   `├──train`  <br/>
   `└──test`   <br/>
       `└──raindrop`
+
 
 
 

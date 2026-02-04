@@ -87,15 +87,16 @@ Code borrows from [MFDNet](https://github.com/qwangg/MFDNet) and [MPRNet](https:
 
 ## Citation
 If you use PMDNet, please consider citing:
-
-@inproceedings{jiang2023dawn,
-  title={Dawn: Direction-aware attention wavelet network for image deraining},
-  author={Jiang, Kui and Liu, Wenxuan and Wang, Zheng and Zhong, Xian and Jiang, Junjun and Lin, Chia-Wen},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={7065--7074},
-  year={2023}
+~~~
+@article{Ni2026PMDNet,
+    title = {PMDNet: Progressive modulation network with global-local representations for single image deraining},
+    journal = {Expert Systems with Applications},
+    volume = {306},
+    pages = {130910},
+    year = {2026},
+    author = {Yihao Ni and Shan Gai}
 }
-
+~~~
 ## Contact
 Should you have any question, please contact nyhao@stumail.ysu.edu.cn.
 

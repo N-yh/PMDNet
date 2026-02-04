@@ -12,7 +12,7 @@ from thop import profile
 
 
 parser = argparse.ArgumentParser(description='Image Deraining using PMDNet')
-parser.add_argument('--input_dir', default='./Rain13k/test/', type=str, help='Directory of test(validation) images')
+parser.add_argument('--input_dir', default='./Datasets/Rain13k/test/', type=str, help='Directory of test(validation) images')
 parser.add_argument('--test_result_dir', default='./Test_Result/Rain13k/', type=str, help='Directory for test_results')
 parser.add_argument('--weights', default='./checkpoints/Rain13k/model_Rain13k.pth', type=str,  help='Path to weights')
 parser.add_argument('--gpus', default='0', type=str, help='CUDA_VISIBLE_DEVICES')

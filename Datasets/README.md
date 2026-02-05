@@ -9,7 +9,7 @@ Download datasets and place them in this directory. Your directory structure sho
       `├──Test1200`  <br/>
       `└──Test2800`
 
-  Rain-Fog, [Rain'Cityscape's](https://www.cityscapes-dataset.com/) <br/>RainCityscapes
+  Rain-Fog ([RainCityscapes](https://www.cityscapes-dataset.com/)) <br/>RainCityscapes
   `├──train`  <br/>
   `└──test`   <br/>
       `└──rain-fog`
@@ -18,6 +18,7 @@ Download datasets and place them in this directory. Your directory structure sho
   `├──train`  <br/>
   `└──test`   <br/>
       `└──raindrop`
+
 
 
 
